@@ -6,7 +6,7 @@
 [Watch the InsightAI Demo on YouTube](https://youtu.be/UjxwArLXS2w)
 
 ### Screeenshot of INSIGHTAI Before and After Running:
-BEFORE EXECUTING:
+BEFORE EXECUTING: Executed with the content "Types of Dogs" in the Search box of below image.
 <img width="1508" alt="Screenshot 2024-10-25 at 8 52 47 PM" src="https://github.com/user-attachments/assets/f1c29d51-e417-4fe5-a99a-b5f77b1125a5">
 AFTER EXECUTING:
 <img width="1495" alt="image" src="https://github.com/user-attachments/assets/4a932e6c-99d7-472a-9cd2-31eded45f35a">
