@@ -1,6 +1,6 @@
 # InsightAI - Interactive Learning Platform
 
-**InsightAI** is an innovative, AI-powered online learning platform that enables users to explore any topic of their choice. Leveraging the powerful ChatGPT API, DALLE 3 API, InsightAI automatically generates detailed scripts and engaging video content based on the user’s input topic. This repository contains the core files to run InsightAI’s web application, allowing for an interactive learning experience that combines AI-driven scripting and video creation.
+**InsightAI** is an innovative, AI-powered online learning platform that enables users to explore any topic of their choice. Leveraging the powerful **ChatGPT API, DALLE 3 API**, InsightAI automatically generates detailed scripts and engaging video content based on the user’s input topic. This repository contains the core files to run InsightAI’s web application, allowing for an interactive learning experience that combines AI-driven scripting and video creation.
 
 ### Demo Video
 [Watch the InsightAI Demo on YouTube](https://youtu.be/UjxwArLXS2w)
